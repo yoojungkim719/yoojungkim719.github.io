@@ -124,7 +124,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://yoojungkim719.github.com/"
+      url: "https://github.com/yoojungkim719"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/yoo_jung._"
@@ -140,7 +140,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://yoojungkim719.github.com/"
+      url: "https://github.com/yoojungkim719"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
