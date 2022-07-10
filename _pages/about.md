@@ -1,5 +1,5 @@
 ---
-title: "About ME"
+title: "About"
 permalink: /about/
 layout: single
 classes: wide
