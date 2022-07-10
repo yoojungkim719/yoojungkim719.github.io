@@ -10,7 +10,7 @@ advised by Prof. Yungseop Lee in Data-mining Lab. I am interested in
 - machine learning
 - causal inference
 - econometrics
-- structural equation
+- structural equation modeling
 
 ### Education 
 - 동국대학교 경제학과 (2013.03 ~ 2018.02)
