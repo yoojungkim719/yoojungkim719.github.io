@@ -5,8 +5,7 @@ layout: single
 classes: wide
 ---
 
-# About ME
-Hello, I am an MS student majoring in Statistics at Dongguk University,
+Hello, I am an MS student majoring in Statistics at Dongguk University,  
 advised by Prof. Yungseop Lee in Data-mining Lab. I am interested in
 - machine learning
 - causal inference
