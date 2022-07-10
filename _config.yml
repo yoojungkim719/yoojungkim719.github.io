@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "custom" # "default", "air", "aqua", "contrast", "dar
 locale                   : "ko-KR"
 title                    : "Jenny's Playground"
 title_separator          : "|"
-subtitle                 : "Love, as you have never been hurt"
+subtitle                 : ""
 name                     : "♥ Yoojung"
 description              : "An amazing website."
 url                      : "https://yoojungkim719.github.io"
@@ -104,15 +104,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yoojung Kim(Jenny)"
+  name             : "김유정(Yoojung Kim)"
   avatar           : "/assets/images/snoopy2.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : ""
   location         : "Seoul, South Korea"
   email            : "yjkim.stats@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto: yjkim.stats@gmail.com"
+      url: ""
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
