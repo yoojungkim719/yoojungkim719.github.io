@@ -108,11 +108,11 @@ author:
   avatar           : "/assets/images/forprofile.png"
   bio              : ""
   location         : "Seoul, South Korea"
-  email            : # "mailto: yjkim.stats@gmail.com"
+  email            : # "mailto: ichbinyoojung@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto: yjkim.stats@gmail.com"
+      url: "mailto: ichbinyoojung@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
