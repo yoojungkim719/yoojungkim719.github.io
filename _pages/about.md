@@ -32,12 +32,9 @@ advised by Prof. Yungseop Lee in Data-mining Lab. I am interested in
 - English (Fluent)
 - German (Elementary level)
 
-
-
-
 <!--
 hello 위에 사진 추가
 기타 내용들 계속 추가
-## Courses
 ## Teaching
+## 
 -->
