@@ -5,7 +5,7 @@ layout: single
 classes: wide
 ---
 
-Hello, I am a grad student majoring in Statistics at Dongguk University,  
+Hello❤️ I am a grad student majoring in Statistics at Dongguk University,  
 advised by Prof. Yungseop Lee in Data-mining Lab. I am especially interested in
 - machine learning
 - causal inference
