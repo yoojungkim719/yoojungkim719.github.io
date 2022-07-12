@@ -13,7 +13,7 @@ advised by Prof. Yungseop Lee in Data-mining Lab. I am interested in
 - structural equation modeling
   
   
-# Education
+## Education :school:
 Dongguk University, Seoul, Republic of Korea *Mar 2013 ~ Feb 2018*  
 B.A., majoring in Economics
   
@@ -22,19 +22,19 @@ M.S. Student, majoring in Statistics
 Advised by Prof. Yung-seop Lee
   
   
-## Experience and career 
+## Experience and career :office:
 - Statistical survey assistant, Bank Of Korea *Sep 2016 ~ Dec 2016*  
 - Undergraduate intern, Research and Research Co., Ltd. *Sep 2017 ~ Dec 2017*  
 - Marketing researcher education program, Korea Research Association *Dec 2017 ~ Mar 2018*  
 - Researcher, Macromill Embrain Co., Ltd. *Apr 2018 ~ May 2021*  
   
   
-## Skills
+## Skills :computer:
 - <code>R</code> <code>Python</code>  
 - Survey Analyst, Junior  
   
   
-## Foreign Language fluency  
+## Foreign Language fluency :capital_abcd:
 - Korean (Native)  
 - English (Fluent)  
 - German (Elementary level)  
