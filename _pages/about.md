@@ -9,14 +9,13 @@ Hello, I am a grad student majoring in Statistics at Dongguk University,
 advised by Prof. Yungseop Lee in Data-mining Lab. I am especially interested in
 - machine learning
 - causal inference
-- econometrics
 - structural equation modeling
 
 ## Education
 ---
 Dongguk University, Seoul, Republic of Korea *(Mar 2013 ~ Feb 2018)*  
 B.A., majoring in Economics  
-  
+
 Dongguk University, Seoul, Republic of Korea *(Mar 2022 ~ present)*  
 M.S. Student, majoring in Statistics  
 Advised by Prof. Yung-seop Lee
@@ -48,4 +47,5 @@ hello 위에 사진 추가
 ## Teaching
 ## projects
 -->
+
 
