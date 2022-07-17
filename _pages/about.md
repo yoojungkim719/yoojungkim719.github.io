@@ -12,7 +12,6 @@ advised by Prof. Yungseop Lee in Data-mining Lab. I am especially interested in
 - structural equation modeling
 
 ## Education
----
 Dongguk University, Seoul, Republic of Korea *(Mar 2013 ~ Feb 2018)*  
 B.A., majoring in Economics  
 
