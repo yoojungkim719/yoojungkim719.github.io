@@ -6,7 +6,10 @@ classes: wide
 author_profile: true
 ---
 
+<!--
+# 여기에 사진 넣기
 {: .align-right width="220" height="220"}
+-->
 
 Hello❤️ I am a grad student majoring in Statistics at Dongguk University,  
 advised by Prof. Yungseop Lee in Data-mining Lab. I am especially interested in
@@ -31,12 +34,12 @@ Advised by Prof. Yung-seop Lee
    
    
 ## 🖥️ Skills 
-- <code>R</code> <code>Python</code>  
+- <code>R</code> <code>Python</code> <code>SPSS</code>  
 - Survey Analyst, Junior  
    
    
 ## 📋 Projects
-- 초단시간 선행예보 모델을 위한 입력요소 추정, 한국에너지기술연구원 *(Apr 2022 ~ Jul 2022)*   
+- 초단시간 선행예보 모델을 위한 입력요소 추정, 한국에너지기술연구원 *(Apr 2022 ~ Sep 2022)*   
    
    
 ## 🔠 Language fluency  
